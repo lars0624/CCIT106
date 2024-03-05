@@ -1,2 +1,3 @@
 # CCIT106
-## BSIT3A
+## BSIT
+### 3A
